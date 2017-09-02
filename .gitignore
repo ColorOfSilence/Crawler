@@ -1,0 +1,9 @@
+#Ignore everything at first
+*
+
+#But do not ignore these
+!.gitignore
+!*.md
+!webcrawler
+!webcrawler/
+!webcrawler/**
